@@ -4,7 +4,7 @@ A docker image containing helm, kubectl and git.
 
 Purpose
 -------
-This image is used at Numigi for running Jenkins pipelines using the [Kubernetes Plugin](<https://plugins.jenkins.io/kubernetes).
+This image is used at Numigi for running Jenkins pipelines using the [Kubernetes Plugin](https://plugins.jenkins.io/kubernetes).
 
 The git client fetches a repository containing Kubernetes/Helm resources.
 
